@@ -1,0 +1,6 @@
+@DynamoStudentManager_HostAddress = http://localhost:5168
+
+GET {{DynamoStudentManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
